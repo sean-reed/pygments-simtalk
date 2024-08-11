@@ -11,5 +11,5 @@ Pygments should automatically detect the presence of the lexer and make it avail
 See the Pygments docs and use language name `simtalk`.
 
 ## Bugs and Issues
-Please create an issue if you encounter any problems with the syntax highlighting. Please include a minimal code sample
+Please [create an issue on the GitHub project page](https://github.com/sean-reed/pygments-simtalk/issues) if you encounter any problems with the syntax highlighting. Please include a minimal code sample
 along with a description of what you expect to see and what you actually see.
