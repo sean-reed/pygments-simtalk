@@ -1,0 +1,10 @@
+/* Release the circuit board from the source only
+once the buffer has less than 3 items */
+waituntil Buffer.NumMU < 3
+-- Enter the circuit board into the table.
+var row: integer
+row := CircuitBoards.getColumnYDim(1) + 1
+CircuitBoards["circuitBoard", row] := @
+CircuitBoards["location", row] := ?
+CircuitBoards["entered", row] := EventController.SimTime
+@.move -- Move the board onto successor.
