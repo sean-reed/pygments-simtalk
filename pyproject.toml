@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pygments-simtalk"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Pygments lexer for the SimTalk programming language."
 authors = ["Sean Reed <sean@sean-reed.com>"]
 readme = "README.md"
