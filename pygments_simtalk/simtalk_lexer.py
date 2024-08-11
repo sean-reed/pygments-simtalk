@@ -21,6 +21,10 @@ __all__ = ["SimTalkLexer"]
 
 
 class SimTalkLexer(RegexLexer):
+    """
+    For SimTalk 2.0 source code.
+    """
+
     name = "SimTalk"
     aliases = ["simtalk"]
 
