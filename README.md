@@ -1,4 +1,4 @@
-A Pygments lexer plugin for the SimTalk programming language. This plugin adds syntax highlighting for SimTalk to the Pygments tool.
+A Pygments lexer plugin for the SimTalk 2.0 programming language. This plugin adds syntax highlighting for SimTalk to the Pygments tool.
 
 ## Install
 You can install it with pip (or your favourite Python ackage manager):
